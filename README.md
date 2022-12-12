@@ -56,3 +56,6 @@ MIT License
 * [OpenMP](https://www.openmp.org/)
 * [Intel oneApi HPC toolkit](https://www.intel.com/content/www/us/en/developer/tools/oneapi/hpc-toolkit.html)
 * [MIT License](https://mit-license.org/)
+
+## References
+[Pérez-Illanes R., Fernàndez-Garcia, D., 2022, Multiprocessing for the Particle Tracking Model MODPATH, Groundwater, doi:10.1111/gwat.13279](https://doi.org/10.1111/gwat.13279)
