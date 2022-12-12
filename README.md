@@ -13,6 +13,8 @@ make -f makefile-gfortran-pc
 This will compile source files and will output a binary, by default with name `mpath7omp.exe`. 
 Compilation has been verified with ``gfortran@9.2.1`` and with ``ifort`` from Intel ``oneAPI@2021.3.0``.
 
+### Note
+Compiled binaries in the folder `msvs/bin_PROVISIONAL` are the ones provided by the upstream `modpath-v7` repository, not the parallel version from this repository.
 
 ## Running parallel simulations
 ``modpath`` interface has been extended to simplify execution of parallel runs via the command line. 
